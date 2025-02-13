@@ -9,7 +9,7 @@
 <p align="center"> 
 - 🔭 I’m currently working on <strong><a href="https://github.com/nrtsoftware/Artani">Artani</a></strong></p>
 <p align="center">
-- 🌱 I’m currently learning <strong>PHP, Laravel, and DevOps</strong></p>
+- 🌱 I’m currently learning <strong>PHP, Laravel and DevOps</strong></p>
 <p align="center">
 - 🤝 I’m looking for <strong>Job opportunities</strong></p>
 <p align="center">
